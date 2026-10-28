@@ -1,0 +1,15 @@
+# Compiled executables and object files
+*.exe
+*.o
+*.obj
+
+# Debug symbols
+*.dsym
+
+# Build directories
+build/
+cmake-build-*/
+
+# IDE and OS-generated files
+.DS_Store
+Thumbs.db
